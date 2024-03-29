@@ -19,7 +19,7 @@ body{
 	margin-top: 10px;
 	width: 46px;
 	height: 46px;
-	background-image: url("C:/Users/user/Desktop/site/images/inst.png ");
+	background-image: url("/images/inst.png ");
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: none;
@@ -29,7 +29,7 @@ body{
 	margin-top: 10px;
 	width: 46px;
 	height: 46px;
-	background-image: url("C:/Users/user/Desktop/site/images/tg.png");
+	background-image: url("/images/tg.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: none;
@@ -39,7 +39,7 @@ body{
 	margin-top: 10px;
 	width: 46px;
 	height: 46px;
-	background-image: url("C:/Users/user/Desktop/site/images/whatsapp.png");
+	background-image: url("/images/whatsapp.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: none;
